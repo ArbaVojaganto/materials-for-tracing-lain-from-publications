@@ -7,7 +7,7 @@
 謝りの指摘やコントリビュートは大歓迎します。  
 
 ## 履歴
-- 2022-12-10: [serial experiments lain Advent Calendar 2022](https://adventar.org/calendars/7355) 12日目として公開しました
+- 2022-12-10: [serial experiments lain Advent Calendar 2022](https://adventar.org/calendars/7355) 10日目として公開しました
 
 
 ## 書籍
