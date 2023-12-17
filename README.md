@@ -8,7 +8,7 @@
 
 ## 履歴
 - 2022-12-10: [serial experiments lain Advent Calendar 2022](https://adventar.org/calendars/7355) 10日目として公開しました
-- 2023-12-15: [serial experiments lain Advent Calendar 2023](https://adventar.org/calendars/8927) 17日目として公開しました
+- 2023-12-17: [serial experiments lain Advent Calendar 2023](https://adventar.org/calendars/8927) 17日目として公開しました
 
 
 ## 書籍
